@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Voltas/HomeVC.swift"
+            timestampString = "553869329.9282711"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "HomeVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Voltas.HomeVC.__deallocating_deinit"
+                  moduleName = "Voltas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syedali/Desktop/Voltas/Voltas/Voltas/HomeVC.swift"
+                  timestampString = "552485881.774092"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Voltas.HomeVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Voltas.HomeVC"
+                  moduleName = "Voltas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syedali/Desktop/Voltas/Voltas/Voltas/HomeVC.swift"
+                  timestampString = "552485881.779762"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Voltas.HomeVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Voltas.HomeVC"
+                  moduleName = "Voltas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syedali/Desktop/Voltas/Voltas/Voltas/HomeVC.swift"
+                  timestampString = "552485881.782415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Voltas.HomeVC.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Voltas.HomeVC&gt;"
+                  moduleName = "Voltas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syedali/Desktop/Voltas/Voltas/Voltas/HomeVC.swift"
+                  timestampString = "552485881.784839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Voltas.HomeVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Voltas.HomeVC&gt;"
+                  moduleName = "Voltas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/syedali/Desktop/Voltas/Voltas/Voltas/HomeVC.swift"
+                  timestampString = "552485881.786868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
